@@ -33,7 +33,7 @@ Within each parent folder, files are organized by CRS product type:<br>
 `/reports/`      — CRS Reports (R): full-length comprehensive reports<br>
 `/sidebars/`     — CRS Sidebars (LSB): brief legislative updates<br>
 
-File naming convention: `[REPORTNUMBER]v[VERSION]-title-in-kebab-case.md`
+File naming convention: `[REPORTNUMBER]v[VERSION]-title-in-kebab-case.md`  
 Example: `IN12609v1-some-report-title.md`
 
 Each file includes a version number. Unlike a typical Git workflow, updated versions
