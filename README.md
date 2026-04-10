@@ -23,17 +23,17 @@ Users will see conversion-inserted placeholders, e.g.:
 
 ## Organization
 
-Files are first organized by format:
-`/markdown/`
+Files are first organized by format: <br>
+`/markdown/`<br>
 `/pdf/`
 
-Within each parent folder, files are organized by CRS product type:
-`/in-focus/`     — CRS In Focus (IF): 2-page reference products
-`/insights/`     — CRS Insights (IN): short, event-driven products
-`/reports/`      — CRS Reports (R): full-length comprehensive reports
-`/sidebars/`     — CRS Sidebars (LSB): brief legislative updates
+Within each parent folder, files are organized by CRS product type:<br>
+`/in-focus/`     — CRS In Focus (IF): 2-page reference products<br>
+`/insights/`     — CRS Insights (IN): short, event-driven products<br>
+`/reports/`      — CRS Reports (R): full-length comprehensive reports<br>
+`/sidebars/`     — CRS Sidebars (LSB): brief legislative updates<br>
 
-File naming convention: `[REPORTNUMBER]v[VERSION]-title-in-kebab-case.md`  
+File naming convention: `[REPORTNUMBER]v[VERSION]-title-in-kebab-case.md`
 Example: `IN12609v1-some-report-title.md`
 
 Each file includes a version number. Unlike a typical Git workflow, updated versions
