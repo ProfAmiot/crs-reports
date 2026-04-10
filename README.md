@@ -24,14 +24,14 @@ Users will see conversion-inserted placeholders, e.g.:
 ## Organization
 
 Files are first organized by format:
-/markdown/
-/pdf/
+`/markdown/`
+`/pdf/`
 
 Within each parent folder, files are organized by CRS product type:
-/in-focus/     — CRS In Focus (IF): 2-page reference products
-/insights/     — CRS Insights (IN): short, event-driven products
-/reports/      — CRS Reports (R): full-length comprehensive reports
-/sidebars/     — CRS Sidebars (LSB): brief legislative updates
+`/in-focus/`     — CRS In Focus (IF): 2-page reference products
+`/insights/`     — CRS Insights (IN): short, event-driven products
+`/reports/`      — CRS Reports (R): full-length comprehensive reports
+`/sidebars/`     — CRS Sidebars (LSB): brief legislative updates
 
 File naming convention: `[REPORTNUMBER]v[VERSION]-title-in-kebab-case.md`  
 Example: `IN12609v1-some-report-title.md`
