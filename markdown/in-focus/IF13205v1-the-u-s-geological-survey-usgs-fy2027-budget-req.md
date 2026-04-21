@@ -1,0 +1,77 @@
+# The U.S. Geological Survey (USGS): FY2027 Budget Request
+
+**Product Type:** In Focus
+**Report No.:** IF13205
+**Version:** 1
+**Publication Date:** 04/16/2026
+**Author(s):** Normand, Anna E.
+**Source:** https://www.congress.gov/crs-product/IF13205?s=1&r=11
+
+---
+[Citation](https://crsreports.congress.gov#citation)[Subscribe](https://crsreports.congress.gov/get-alerts)[Share/Save](https://crsreports.congress.gov#share)[Site Feedback](https://crsreports.congress.gov#survey)[Home](https://crsreports.congress.gov/) > [CRS Products (Library of Congress)](https://crsreports.congress.gov/crs-products) > IF13205
+
+# The U.S. Geological Survey (USGS): FY2027 Budget Request
+
+## CRS PRODUCT (LIBRARY OF CONGRESS)
+
+[Hide Overview](https://crsreports.congress.gov#)
+
+| **CRS Product Type:** | In Focus 
+| **CRS Product Number:** | IF13205 
+| **Publication Date:** | 04/16/2026 
+| **Author:** | Normand, Anna E. 
+
+[Download PDF (326KB)](https://crsreports.congress.gov/crs_external_products/IF/PDF/IF13205/IF13205.1.pdf)
+
+[Listen](https://app-na.readspeaker.com/cgi-bin/rsent?customerid=6927&lang=en_us&readid=dvContainer&url=https%3A%2F%2Fwww.congress.gov/crs-product/IF13205?s=1&r=11&voice=Kayla)The U.S. Geological Survey (USGS): FY2027 Budget RequestApril 16, 2026             (IF13205)           
+
+Background
+
+The [U.S. Geological Survey](https://www.usgs.gov/) (USGS), in the [Department of the Interior](https://www.doi.gov/) (DOI), provides scientific information to support the management of water, energy, mineral, ecosystem, and land resources and to mitigate risks from natural hazards. The USGS also collects long-term data to understand and report on the Earth's geologic and ecosystem processes, using satellite imagery, mapping, and ground-based instruments. The USGS is not a regulatory agency and does not manage federal lands.
+
+Congress created the USGS in 1879 in the USGS Organic Act ([43 U.S.C. §31](https://uscode.house.gov/view.xhtml?req=(title:43%20section:31%20edition:prelim))). The USGS Organic Act defined the initial scope of the USGS:
+
+[The Director of the USGS] shall have the direction of the United States Geological Survey, and the classification of the public lands and examination of the geological structure, mineral resources, and products of the national domain.
+
+Since then, Congress has expanded the USGS's statutory authority to "such examinations outside the national domain where determined by the Secretary [of the Interior] to be in the national interest." Under this authority and additional congressional direction, the USGS now also conducts activities related to water resources, ecosystems, and natural hazards that span the globe. The USGS performs scientific activities under [interdisciplinary mission areas](https://www.usgs.gov/science/mission-areas), and each mission area has its own budget line. The USGS also has budget lines for [Science Support](https://www.usgs.gov/about/organization/science-support-offices) (administrative activities and information) and Facilities. Congress typically provides discretionary appropriations for the USGS under its Surveys, Investigations, and Research account in annual Interior, Environment, and Related Agencies appropriations acts.
+
+FY2027 Budget Request 
+
+President Trump's [FY2027 budget request for the USGS](https://www.doi.gov/sites/default/files/documents/2026-04/fy2027greenbookusgs.pdf) is $892.7 million. The request is $527.8 million less (-37%) than the FY2026 enacted annual appropriation of $1.420 billion provided by Division C of [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text) ([Figure 1](https://crsreports.congress.gov#_Ref161783663)). 
+
+The USGS [budget request](https://www.doi.gov/sites/default/files/documents/2026-04/2027bibusgs508.pdf) "emphasizes science supporting energy and mineral independence and security, including the mapping of the distribution of domestic critical minerals." The request would eliminate the Ecosystems Mission Area to focus on those energy and mineral priorities. The previous FY2026 budget request also proposed eliminating the mission area, but [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text) funded it. Similar to the previous request, the FY2027 budget request proposes a new mission area—Geology, Energy, and Minerals Mission Area—encompassing activities of the current Energy and Minerals Mission Area, plus geologic data management and mapping as well as offshore energy and minerals activities. [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text) funded these activities under the existing mission area and program structure.
+
+| Figure 1. USGS Enacted Annual Appropriations, FY2018-FY2026, and FY2027 Budget Request
+(in millions) 
+|  
+| Source: Congressional Research Service (CRS), based on enacted appropriations laws and the President's FY2027 budget request. 
+Notes: Amounts exclude supplemental funding. The yellow line shows inflation-adjusted amounts in FY2025 dollars using FY2027 Budget of the U.S. Government, Historical Tables, Table 10.1. FY2026 and FY2027 figures are not adjusted. 
+
+Mission Area and Budget Line Funding
+
+The following sections further describe the FY2027 budget request in comparison to FY2026 enacted annual appropriations and the corresponding explanatory statement. 
+
+**Ecosystems ****M****ission ****A****rea**. The FY2027 USGS budget request would eliminate the [Ecosystems Mission Area](https://www.usgs.gov/mission-areas/ecosystems), which was funded at $294.7 million for FY2026. This mission area conducts biological and ecological science to inform natural resource management decisions through its six programs and cooperative research units. Science activities conducted under the Ecosystems Mission Area include research related to invasive species, wildlife management, ecosystem restoration, climate change, and environmental contaminants, among other focuses. The budget request states that the proposed elimination "will allow the bureau to focus on higher priority activities, including achieving energy and minerals dominance." The budget request would continue funding the agency's invasive carp work through the National Water Quality Program in the Water Resources Mission Area. 
+
+**Geology, Energy, and Minerals ****M****ission ****A****rea.** The budget request proposes creation of a new mission area—[Geology, Energy, and Minerals Mission Area](https://www.usgs.gov/mission-areas/geology-energy-minerals)—in the USGS. Under the current Energy and Minerals Mission Area, the USGS conducts scientific research and assessments for energy and minerals and analyzes and forecasts critical mineral supply chains. The request states that the proposed funding of $142.5 million for the Geology, Energy, and Minerals Mission Area would support several executive orders, including Executive Orders 14154 and 14241, "[Unleashing American Energy](https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy)" and "[Immediate Measures to Increase American Mineral Production](https://www.federalregister.gov/documents/2025/03/25/2025-05212/immediate-measures-to-increase-american-mineral-production)," respectively. Under the reorganized mission area, [Energy Resources Program](https://www.usgs.gov/programs/energy-resources-program) funding would increase from $35.9 million for FY2026 to $38.0 million for FY2027, and [Mineral Resources Program](https://www.usgs.gov/programs/mineral-resources-program) funding would increase from $68.7 million to $78.9 million. 
+
+**Natural Hazards**** Mission Area.** The [Natural Hazards Mission Area](https://www.usgs.gov/mission-areas/natural-hazards) would decrease in funding from $200.1 million for FY2026 to $136.5 million for FY2027 (-32%). All of the mission area's programs would see reductions.  The Earthquake Hazards Program accounts for $32.3 million of the decrease, mostly by reducing [ShakeAlert Earthquake Early Warning](https://earthquake.usgs.gov/data/shakealert/) funding by $25.2 million. The [Coastal and Marine Hazards and Resources Program](https://www.usgs.gov/programs/cmhrp) would decrease in funding from $41.0 million for FY2026 to $25.2 million for FY2027; $2.5 million of the reduction would result from transferring marine minerals and deep-sea gas-hydrates research activities to the Geology, Energy, and Minerals Mission Area. 
+
+**Water Resources**** Mission Area. **The budget requests $227.1 million for the Water Resources Mission Area, a reduction from its FY2026 funding of $288.8 million (-21%). All of the mission area's programs would decrease in funding; however, the budget request would increase funding for certain activities within the Groundwater and Streamflow Information Program. Proposed increased funding for [cooperative matching funds](https://www.usgs.gov/mission-areas/water-resources/science/usgs-cooperative-matching-funds) ($4.0 million increase) and [federal priority streamgages](https://www.usgs.gov/mission-areas/water-resources/science/federal-priority-streamgages-fps) ($1.7 million increase) would support sustaining and expanding the streamgage network. For [observing network and data system operations](https://www.usgs.gov/mission-areas/water-resources/observing-systems-division), increased funding of $6.8 million would support using artificial intelligence to improve efficiency. The budget request also would discontinue the [Water Resources Research Act Program](https://www.usgs.gov/programs/water-resources-research-act-program). 
+
+**Core Science Systems ****M****ission ****A****rea. **Funding for the Core Science Systems Mission Area would decrease from $276.1 million for FY2026 to $156.7 million for FY2027 (-43%). Transferring [geologic mapping](https://www.usgs.gov/programs/national-cooperative-geologic-mapping-program) and [geological and geophysical data preservation](https://www.usgs.gov/programs/national-geological-and-geophysical-data-preservation-program) to the new Geology, Energy, and Minerals Mission Area accounts for $45.0 million of the proposed decrease. The mission area's remaining programs would all decrease in funding compared to FY2026 enacted amounts, including a reduction of $39.9 million for the [National Geospatial Program](https://www.usgs.gov/programs/national-geospatial-program). Instead of continued development of [Landsat Next](https://crsreports.congress.gov/crs-product/IN12281), the budget request would support a ground system for operations of a single satellite (referred to as LandIS-1) to be launched in the early 2030s and preparatory work with NASA for a "phased transition to a commercial solution of the Landsat program." 
+
+**Science Support and Facilities.** Funding for [Science Support](https://www.usgs.gov/about/organization/science-support-offices) would increase from $73.7 million for FY2026 to $80.0 million for FY2027 (9%) to support science coordination and services and information technology efficiencies. Funding for Facilities would decrease from $180.1 million for FY2026 to $149.9 million for FY2027 (-17%). Some of the proposed budget changes are associated with decommissioning Ecosystems Mission Area facilities. 
+
+Congressionally Directed Spending
+
+For FY2022 through FY2024 and for FY2026, explanatory statements accompanying appropriations acts included Member-requested funding (e.g., earmarks) for geographically specific activities. The House Appropriations Committee refers to such funding requests as Community Project Funding (CPF), whereas the Senate Appropriations Committee designates this funding as Congressionally Directed Spending (CDS). The explanatory statement accompanying [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text) included three [congressionally directed spending](https://www.appropriations.senate.gov/imo/media/doc/fy26_interior_cds_public_law.pdf#page=38) items for the USGS, totaling $2.3 million, under "Special Initiatives." For FY2027, the Senate Appropriations Committee again allowed Members to [request CDS items](https://www.appropriations.senate.gov/imo/media/doc/fy2027_appropriations_requests_general_guidance.pdf) for the USGS's account, whereas the House Appropriations Committee did not allow [CPF requests](https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy27-int-prog-lang-cpf-guidance.pdf) for the account. 
+
+Issues for Congress
+
+Congress may examine how the FY2027 budget request, which proposes decreasing USGS's funding by 37% compared with FY2026 enacted annual appropriations, would shape the focus of the agency's scientific activities. Similar to the FY2026 request, the Administration stated that much of its proposed reductions would allow the USGS to focus on higher-priority activities, which in FY2027 relate to "the energy emergency, restoring U.S. mineral dominance, and safeguarding life and property." For FY2026, [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text) provided $528.8 million more (37%) in appropriations than the budget request of $891.6 million. An issue for Congress is whether to increase, decrease, or maintain funding for various USGS activities in light of Trump Administration science priorities, congressional goals for the agency, and other considerations. 
+
+Similar to FY2026, President Trump's FY2027 budget request also proposes restructuring the USGS. As previously stated, the request would eliminate the Ecosystems Mission Area. In addition, the budget request proposes creating a new Geology, Energy, and Minerals Mission Area to support the USGS's mapping initiatives and the Administration's energy and minerals agenda. Some [stakeholders](https://esa.org/public-policy/letters-from-esa-president/) have supported funding these activities under the USGS's current structure, as did Congress when it passed [P.L. 119-74](https://crsreports.congress.gov/bill/119th-congress/house-bill/6938/text). Congress may consider the focus and scope of the USGS's activities and mission areas in FY2027 appropriations legislation and accompanying congressional direction. Outside of the appropriations process, Congress also may consider what, if any, statutory authorities to repeal, amend, or enact to shape USGS activities. 
+
+                              Disclaimer:  
+ These documents were prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you wish to copy or otherwise use copyrighted material.
